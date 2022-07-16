@@ -12,4 +12,3 @@ if n1 > n2:
 else:
     print(n1)
 print('Fin del programa')
-
