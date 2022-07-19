@@ -1,0 +1,1 @@
+print('El nombre de la cerveseria es:\n' + input('Ingresar una palabra:')+ ' '+input ('ingresa otra palabra:'))
